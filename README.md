@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Módulo 2 PrepCourse de Henry
+Prueba de crear un repositorio y clonarlo a repositorio local
